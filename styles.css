@@ -1,0 +1,151 @@
+body 
+{ 
+    margin: 0px;
+    text-align: center;
+}
+
+h1 
+{
+ font-family: "monaco", monospace;
+    margin-top: 150px; 
+    margin-bottom: 10px;
+  font-size: 300%;
+}
+
+h2
+{
+    font-family:"monaco", monospace;
+    font-size: 200%;
+}
+
+h3
+{
+    font-family: monospace, "monaco";
+    font-size: 180%
+}
+p
+{
+    font-family: "monaco", monospace;
+    font-size: 130%;
+}
+
+hr {
+border-style: none;
+border-color: white;
+border-width: 5px;
+border-top-style: dotted;
+width: 30%;
+height: 0cm;}
+
+.top-container
+{
+    background-color: #000000;
+    color: white;
+    height: 900px;
+   }
+
+
+.saturn-down
+{
+    position: absolute;
+left: 300px;
+    top: 350px;
+}
+
+.pluto-down
+{
+    position: absolute;
+    bottom:300px;
+    right: 200px;
+}
+
+.venus-up
+{
+  position: absolute;
+    left: 100px;
+    top: 150px;
+}
+
+.moon-down
+{
+    position: absolute;
+    top: 550px;
+    right: 1100px;
+}
+
+
+.earth-down
+{
+    position: absolute;
+    top: 600px;
+    left: 1080px;
+}
+
+.neptune-down
+{
+    position: absolute;
+    right: 400px;
+}
+
+.stars1-up
+{
+    position: absolute;
+    top: 30px;
+    left: 250px;
+}
+
+.stars2-up
+{
+    position: absolute;
+    right: 30px;
+}
+
+.stars3-down
+{
+  position: absolute;
+    top: 250px;
+    left: 450px;
+}
+
+.stars4-down
+{
+    position: absolute;
+    bottom: 30px;
+    left: 250px;
+
+}
+
+.stars5-down
+{
+     position: absolute;
+}
+
+.stars6-down
+{
+    position: absolute;
+ top: 700px;
+    left: 600px;
+}
+
+.stars7-down
+{
+    position: absolute;
+    bottom: 180px;
+    right: 150px;
+}
+
+.middle-container
+{
+    background-color: #3D0000;
+    color: white;
+    text-align: center;
+    height: 2700px;
+}
+
+
+.bottom-container
+{
+    background-color: #950101;
+    height: 120px;
+    color: white;
+}
