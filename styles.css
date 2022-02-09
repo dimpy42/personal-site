@@ -139,15 +139,7 @@ left: 300px;
     background-color: #3D0000;
     color: white;
     text-align: center;
-    height: 2700px;
-}
-
-
-.bottom-container
-{
-    background-color: #950101;
-    height: 120px;
-    color: white;
+    height: 3300px;
 }
 
 .skill-row
@@ -156,8 +148,14 @@ left: 300px;
     margin: 100px auto 100px auto;
     text-align: left;
     line-height: 2;
-    
-    .design-img {float: left;}
+}
+.bottom-container
+{
+    background-color: #950101;
+    height: 120px;
+    color: white;}
+
+.design-img {float: left;}
 .art-img{ float: right;}
 .writer-img {float: left;}
 .speak-img {float: right;}
